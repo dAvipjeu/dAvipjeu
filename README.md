@@ -1,0 +1,5 @@
+- olá, eu sou **@davipjeu**
+- eu estou atualmente estudando a programar jogos (alura).
+- eu me interesso em jogos, e afins...
+- meu endereço de [email](davi.silvano@escola.pr.gov.br)
+- 
